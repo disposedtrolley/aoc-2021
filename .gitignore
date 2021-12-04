@@ -1,3 +1,6 @@
 /.clj-kondo
 /.cpcache
 /.lsp
+/.idea
+/.nrepl-port
+/aoc-2021.iml
